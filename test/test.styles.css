@@ -5,7 +5,30 @@
 #mocha h1 a {
     pointer-events: none;
 }
+header {
+    background-color: black;
+    color: brown;
+}
  h2 {
-    background-color: white;
+    background-color: blue;
     color: red;
+    text-align: center;
+    font-size: ariel;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
  }
+img {
+    padding-left: 200px;
+    border-style: none;
+    display: block;
+    width: 300px;
+
+}
+h3 {
+    background-color: aqua;
+    color: blueviolet;
+    text-align: center;
+    margin-top: auto;
+    font-size: ariel;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
